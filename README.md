@@ -1,2 +1,2 @@
 # Deep-Learning projects
-# Learning
+# Learning projects for improving the knowledge and obtaining a good command
